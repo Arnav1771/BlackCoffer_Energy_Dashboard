@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BlackCoffer_Energy_Dashboard/static/css/main.18d313c0.css",
+    "main.js": "/BlackCoffer_Energy_Dashboard/static/js/main.d940a33c.js",
+    "static/js/453.0d49405d.chunk.js": "/BlackCoffer_Energy_Dashboard/static/js/453.0d49405d.chunk.js",
+    "index.html": "/BlackCoffer_Energy_Dashboard/index.html",
+    "main.18d313c0.css.map": "/BlackCoffer_Energy_Dashboard/static/css/main.18d313c0.css.map",
+    "main.d940a33c.js.map": "/BlackCoffer_Energy_Dashboard/static/js/main.d940a33c.js.map",
+    "453.0d49405d.chunk.js.map": "/BlackCoffer_Energy_Dashboard/static/js/453.0d49405d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18d313c0.css",
+    "static/js/main.d940a33c.js"
+  ]
+}
